@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://sh4vii.github.io/password-generator/)
+- Solution URL: [View Projects](https://sh4vii.github.io/password-generator/)
 
 ### Built with
 
