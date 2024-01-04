@@ -1,4 +1,4 @@
-# Beginner Web-development Project - Password Generator
+# Beginner Project: Password Generator
 
 This is a Password Generator
 
@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [View Projects](https://sh4vii.github.io/password-generator/)
+- Solution URL: [View Project](https://sh4vii.github.io/password-generator/)
 
 ### Built with
 
